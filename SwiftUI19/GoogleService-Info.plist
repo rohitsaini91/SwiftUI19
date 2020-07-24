@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>595356356775-abohf7dv8oqv8dbq87mbnk4puueuga9f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.595356356775-abohf7dv8oqv8dbq87mbnk4puueuga9f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBOiHr1uUoFNg5KX4iJKJRC584b3ZEIO0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>595356356775</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.SwiftUI19</string>
+	<key>PROJECT_ID</key>
+	<string>accessdenied-4dd8f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>accessdenied-4dd8f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:595356356775:ios:825b4b27a6a9ad8fa10b82</string>
+	<key>DATABASE_URL</key>
+	<string>https://accessdenied-4dd8f.firebaseio.com</string>
+</dict>
+</plist>
